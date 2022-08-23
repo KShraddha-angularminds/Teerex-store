@@ -1,0 +1,33 @@
+.cart-item {
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 50%;
+  /* border: 2px solid red; */
+}
+.cart-image {
+  height: 200px;
+  width: 200px;
+}
+
+.cart-elements {
+  display: flex;
+
+  justify-content: space-between;
+}
+Button {
+  height: 4%;
+}
+.btn-grp {
+  height: 4%;
+}
+h3 {
+  margin: 200px;
+}
+.total-amount {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 48%;
+  margin-left: 26%;
+}

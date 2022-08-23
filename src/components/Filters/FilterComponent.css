@@ -1,0 +1,14 @@
+.filter-item {
+  display: grid;
+  grid-gap: 20px;
+  margin-left: 100px;
+}
+.heading {
+  font-weight: bold;
+}
+.color {
+  padding: 2px;
+}
+label {
+  padding: 5px;
+}
